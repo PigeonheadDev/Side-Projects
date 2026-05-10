@@ -1,5 +1,5 @@
 #VAGUE-PREFIX-LOCATION-DUNGEON-SUFFIX
-#LAST UPDATED 4/27/2026 @ 8:39
+#LAST UPDATED 4/27/2026 @ 9:25
 import random
 
 vague_list = ["Mystery", "Hidden", "Lovely", "Sacred", "Dragon", "Sky", "Apple", "Spiral", "Oblivion", "Crystal", "Dark", "Light", "Highwind", "Thunder", "Sexy", "Moon", "Domination", "Ass", "Inescapable", "Night", "Day", "Eclipse", "Melody", "Dilemma", "Pursuit", "Sunstroke", "Illusion", "Zero", "Lonely", "Skyhigh", "Trillionage", "Mushroom", "Stormswept", "Foreboding", "Agonizing", "Blistering", "Fiery", "Steam", "Burning", "Powder", "Howling", "Division", "Pegasus", "Strike", "Solar", "Lunar"]
@@ -106,15 +106,16 @@ def nameALL():
   print(vague_name, prefix_name, location_name, dungeon_name, suffix_name)
 
 def control1():
+  print("")
   print("The following program generates dungeon names in the general style of the Mystery Dungeon franchise.")
   print("This generator is not meant to be 100% perfect, but simply to get ideas flowing and to amuse yourself with.")
   print("")
   print("DISCLAIMER - This generator has a small amount of mature language as well as inside jokes between me and my friends.")
-  print("This program was created by @PigeonheadDev. Contact me on Twitter for any questions, comments, feedback, or concerns.")
+  print("This program was created by pigeonheadDev.bsky.social. Contact me on Bluesky for any questions, comments, feedback, or concerns.")
   print("This program is open source and can be modified and shared by users without restriction, as long as proper credit to the original author is given.")
   #UPDATE LINE
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-  print("The version you are using is: v1.0, updated on 2/9/23")
+  print("The version you are using is: v1.0.1, updated on 4/27/23")
   print("")
   print("~~~MAIN MENU~~~")
   print("")
